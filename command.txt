@@ -1,0 +1,9 @@
+/*Comando para un servidor local*/
+npx webpack-dev-server
+
+/*Comando para un constrir la aplicacion en produccion*/
+npx webpack -p
+
+
+/*Comando para un constrir la aplicacion en desarrollo*/
+npx webpack -d
